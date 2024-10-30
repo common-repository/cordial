@@ -1,0 +1,11 @@
+.cordial-flagged
+{
+    background-color:rgba(255, 187, 0, 0.589);
+    padding:3px;
+}
+
+.cordial-deleted
+{
+    background-color:rgba(255, 0, 0, 0.377);
+    padding:3px;
+}
